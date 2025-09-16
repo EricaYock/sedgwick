@@ -422,7 +422,7 @@ button {
   display: inline-block;
   padding: 5px 30px;
   background-color: transparent;
-  color: black;
+  color: #000000;
   text-decoration: none;
   outline: none;
   border: 2px solid transparent;
