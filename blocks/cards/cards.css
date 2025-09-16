@@ -370,7 +370,7 @@
     align-content: center;
 }
 .cards > ul > li.teaser-card .cards-card-body p.button-container a {
-  color: var(--text-light);
+  color: var(--text-dark);
 }
 .cards > ul > li.teaser-card .cards-card-body p.button-container a::after {
   color: var(--text-light);
