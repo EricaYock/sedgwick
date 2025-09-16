@@ -420,18 +420,19 @@ button {
 a, a:any-link, a.button:any-link,
 button {
   display: inline-block;
-  padding: 0;
+  padding: 5px 30px;
   background-color: transparent;
   color: var(--link-color);
   text-decoration: none;
   outline: none;
-  border: none;
-  border-radius: 0;
+  border: 2px solid transparent;
+  border-radius: 30px;
   font-size: 16px;
   font-family: var(--heading-font-family);
   line-height: 20px;
   font-weight: 500;
-  text-align: left;
+  text-align: center;
+	margin: 16px 0;
   cursor: pointer;
   overflow: hidden;
   text-overflow: ellipsis;
