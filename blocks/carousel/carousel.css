@@ -298,7 +298,7 @@
 .carousel > ul > li.teaser-overlay {
   box-shadow: 0 3px 20px #00000010;
   border: 1px solid var(--light-color);
-  border-radius: 4px;
+  border-radius: 18px;
   flex-direction: column;
   gap: 0;
   position: relative;
@@ -361,7 +361,7 @@
 .carousel > ul > li.teaser-card {
   box-shadow: 0 3px 20px #00000010;
   border: 1px solid var(--light-color);
-  border-radius: 4px;
+  border-radius: 18px;
   flex-direction: column;
   gap: 0;
   position: relative;
