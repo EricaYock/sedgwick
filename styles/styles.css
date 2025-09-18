@@ -16,7 +16,7 @@
   --brand-light-color: #dcdcdc;
   --brand-link-color: #131313;
   --brand-link-hover-color: #ff0000;
-  --brand-text-color: #ffffff;
+  --brand-text-color: #131313;
   --brand-light-text-color: #ffffff;
 }
 */
@@ -484,7 +484,7 @@ a.button.secondary,
 button.secondary {
   background-color: unset;
   border: 2px solid currentcolor;
-  color: var(--text-color);
+  color: var(--link-hover-color);
 }
 
 main img {
